@@ -3,8 +3,6 @@ import datetime
 import time
 import winsound
 
-
-
 def alarm(set_alarm_timer):
     while True:
         time.sleep(1)
